@@ -1,0 +1,16 @@
+Merge cinflict adalah kejadian ketika terdapat dua orang atau lebih yang mengupdate file serta lines code yang sama di satu waktu sehingga terjadi konflik.
+Cara meneyelesaikannya, yaitu :
+1  Abort merge dan kembali 
+   git merge --abort
+2. Merge kembali
+   git merge --nama branch
+3. Akan muncul beberapa option untuk resolve merge tersebut,yaitu
+   -Accept Current change : branch diupdate dengan code kita
+   -Accept Incoming Branch : branch diupdate dengan code selanjutnya milih user lain
+   -Accept Both Branch : branch diupdate dengan semua update, membentuk line baru
+   -Compare Changes : membandingkan kedua perubahan di file berbeda
+4. git add namaFile
+5. git commit -m "merged nama branch" 
+
+
+

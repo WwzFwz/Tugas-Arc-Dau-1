@@ -1,0 +1,1 @@
+Git rebase adalah suatu command git yang memungkinkan kita untuk melakukan commit dari satu cabang git ke cabang git lainnya. hal ini dengan menghapus komit pada satu cabang dan menambahkannya ke cabang lain yang dituju.

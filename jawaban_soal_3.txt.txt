@@ -1,0 +1,2 @@
+Command fork akan membuat salinan repositori sehingga kita dapatmembuat perubahan pada salinan tersebut tanpa mempengaruhi repositori aslinya.
+Pull request emerupakan command untuk mengajukan perimntaan kepada pemilik repositor tersebut untuk menggambungkan repositorinya dengan repositori yang telah kita buat. Pemilik repositori dapat memutuskan untuk menyetujui penggabungan tersebut atau tidak
